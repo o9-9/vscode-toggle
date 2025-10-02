@@ -24,7 +24,6 @@ Quickly toggles excluded (hidden) files visibility in the file explorer.
 
 - Adds a **Explorer view button** to toggle the excluded file visibility ([optional](#extension-settings), on by default)
 - Adds a **status bar button** to toggle the excluded file visibility ([optional](#extension-settings), on by default)
-
   - An indicator icon will show when the exclude visibility is currently toggled
 
 - Adds a `Show Excluded Files` command (`vscodetoggle.show`) to show excluded files in the file explorer
